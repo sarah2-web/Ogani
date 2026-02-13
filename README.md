@@ -24,7 +24,7 @@ An organic products e-commerce website with modern design and responsive layout.
 
 ![Website Preview](OganiHome.png)
 ![Shop Preview](products.png)
-![Blog Preview](Blog.png)
+![Blog Preview](blog.png)
 
 
 ## 🚀 Getting Started
